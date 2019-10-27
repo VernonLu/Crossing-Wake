@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: f9c8a0b1abe244b7abbd10d58ff8699b
+timeCreated: 1471268295
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: p_vegetation_patch10
+    100004: p_vegetation_patch12
+    100006: p_vegetation_patch13
+    100008: p_vegetation_patch14
+    100010: p_vegetation_patch15
+    100012: p_vegetation_patch2
+    100014: p_vegetation_patch6
+    100016: p_vegetation_patch7
+    100018: p_vegetation_patch9
+    100020: polySurface10
+    100022: polySurface11
+    100024: p_sigl_flowergroup
+    400000: //RootNode
+    400002: p_vegetation_patch10
+    400004: p_vegetation_patch12
+    400006: p_vegetation_patch13
+    400008: p_vegetation_patch14
+    400010: p_vegetation_patch15
+    400012: p_vegetation_patch2
+    400014: p_vegetation_patch6
+    400016: p_vegetation_patch7
+    400018: p_vegetation_patch9
+    400020: polySurface10
+    400022: polySurface11
+    400024: p_sigl_flowergroup
+    2300000: p_vegetation_patch10
+    2300002: p_vegetation_patch12
+    2300004: p_vegetation_patch13
+    2300006: p_vegetation_patch14
+    2300008: p_vegetation_patch15
+    2300010: p_vegetation_patch2
+    2300012: p_vegetation_patch6
+    2300014: p_vegetation_patch7
+    2300016: p_vegetation_patch9
+    2300018: polySurface10
+    2300020: polySurface11
+    2300022: p_sigl_flowergroup
+    3300000: p_vegetation_patch10
+    3300002: p_vegetation_patch12
+    3300004: p_vegetation_patch13
+    3300006: p_vegetation_patch14
+    3300008: p_vegetation_patch15
+    3300010: p_vegetation_patch2
+    3300012: p_vegetation_patch6
+    3300014: p_vegetation_patch7
+    3300016: p_vegetation_patch9
+    3300018: polySurface10
+    3300020: polySurface11
+    3300022: p_sigl_flowergroup
+    4300000: p_vegetation_patch2
+    4300002: p_vegetation_patch6
+    4300004: p_vegetation_patch7
+    4300006: p_vegetation_patch9
+    4300008: p_vegetation_patch10
+    4300010: p_vegetation_patch12
+    4300012: p_vegetation_patch13
+    4300014: p_vegetation_patch14
+    4300016: p_vegetation_patch15
+    4300018: polySurface10
+    4300020: polySurface11
+    4300022: p_sigl_flowergroup
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

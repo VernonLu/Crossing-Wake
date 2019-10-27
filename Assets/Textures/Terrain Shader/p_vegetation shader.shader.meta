@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0ee8e43f035624bae805ced5f20b0594
+timeCreated: 1472722757
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _Diffuse: {fileID: 2800000, guid: 479448dbd83074bdaba15f9d8b2f6aba, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
